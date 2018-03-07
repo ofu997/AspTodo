@@ -1,0 +1,12 @@
+C:\Users\Oliver\desktop\AspTodo\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Oliver\desktop\AspTodo\bin\Debug\netcoreapp2.0\AspTodo.deps.json
+C:\Users\Oliver\desktop\AspTodo\bin\Debug\netcoreapp2.0\AspTodo.runtimeconfig.json
+C:\Users\Oliver\desktop\AspTodo\bin\Debug\netcoreapp2.0\AspTodo.runtimeconfig.dev.json
+C:\Users\Oliver\desktop\AspTodo\bin\Debug\netcoreapp2.0\AspTodo.dll
+C:\Users\Oliver\desktop\AspTodo\bin\Debug\netcoreapp2.0\AspTodo.pdb
+C:\Users\Oliver\desktop\AspTodo\obj\Debug\netcoreapp2.0\AspTodo.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\desktop\AspTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Oliver\desktop\AspTodo\obj\Debug\netcoreapp2.0\AspTodo.AssemblyInfoInputs.cache
+C:\Users\Oliver\desktop\AspTodo\obj\Debug\netcoreapp2.0\AspTodo.AssemblyInfo.cs
+C:\Users\Oliver\desktop\AspTodo\obj\Debug\netcoreapp2.0\AspTodo.dll
+C:\Users\Oliver\desktop\AspTodo\obj\Debug\netcoreapp2.0\AspTodo.pdb
